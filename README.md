@@ -1,8 +1,8 @@
 # Hi, I'm Zé Pedro 👋
 
-Developer from Portugal 🇵🇹
+Computer Engineering student from Portugal 🇵🇹
 
-- 🔭 Working on my own projects
+- 🎓 Studying Computer Engineering
+- 🔭 Working on university and personal projects
 - 🌱 Always learning something new
-- 💫 Open to collaborating on interesting ideas
 - 📫 Reach me here on GitHub
